@@ -1,3 +1,11 @@
+body {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/824/90/363/spacex-rocket-long-exposure-falcon-9-wallpaper-preview.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
 .login-form {
   max-width: 400px;
   margin: 0 auto;
@@ -44,7 +52,7 @@ button[type="submit"] {
   display: block;
   width: 100%;
   padding: 10px;
-  background-color: #007bff;
+  background-color: grey;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -53,7 +61,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-  background-color: #0056b3;
+  background-color: darkgrey;
 }
 
 .signup-form {

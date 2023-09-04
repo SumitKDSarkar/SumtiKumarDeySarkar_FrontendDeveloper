@@ -1,8 +1,13 @@
-/* src/index.css */
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
-
-
-  
+.Navbar nav {
+  background: transparent;
+}
+.Navbar span{
+  color: white;
+}
+.Navbar span:hover{
+  color: gray;
+}

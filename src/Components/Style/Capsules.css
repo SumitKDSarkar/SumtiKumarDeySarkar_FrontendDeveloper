@@ -1,0 +1,210 @@
+.Capsules {
+  text-align: center;
+  padding: 20px;
+}
+
+.bannerTop {
+  display: flex;
+  width: 95%;
+  height: auto;
+  margin: auto;
+  justify-content: center;
+}
+
+.bannerTop div:nth-child(1) {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.bannerTop div:nth-child(2) {
+  border: 10px solid white;
+  border-radius: 10px;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.bannerImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.p_tag {
+  margin: 10px 0;
+  font-size: 16px;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.h3_tag {
+  font-size: 20px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.h1_tag {
+  font-size: 40px;
+  font-weight: 700;
+  color: #fff;
+}
+.searchForm_title {
+  font-size: 50px;
+  font-weight: 100;
+  text-align: start;
+  color: #fff;
+}
+
+.button_learnMore {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  width: 200px;
+  height: 40px;
+  text-align: center;
+}
+
+.button_learnMore:hover {
+  border: 2px solid lightblue;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 20px;
+  justify-content: center;
+  padding: 0 10px;
+  margin-top: 5%;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  background-color: gray;
+  color: #fff;
+  border: none;
+  padding: 10px 30px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.pagination button.active {
+  background-color: darkgrey;
+}
+
+.pagination button:hover {
+  background-color: darkgray;
+}
+
+/* Media query for larger screens, tablets and desktops */
+@media screen and (min-width: 768px) {
+  .card-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .bannerTop div:nth-child(1) {
+    width: 40%;
+  }
+  .bannerTop div:nth-child(2) {
+    width: 60%;
+  }
+}
+
+/* Media query for even larger screens, large desktops */
+@media screen and (min-width: 1200px) {
+  .card-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .bannerTop {
+    flex-direction: column-reverse; /* Reverse the order for mobile screens */
+  }
+}
+
+/* Media query for larger screens  screen width 768px and above */
+@media screen and (min-width: 768px) {
+  .bannerTop {
+    flex-direction: row;
+  }
+}
+
+/* Styles for the search container */
+.search-container {
+  text-align: center;
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchForm_title {
+  font-size: 50px;
+  font-weight: 100;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.search-container input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.search-container input[type="date"] {
+  flex: 1;
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.search-container button {
+  background-color: darkgrey;
+  color: #fff;
+  border: none;
+  padding: 20px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background-color: rgb(126, 125, 125);
+}
+
+@media screen and (max-width: 768px) {
+  .search-container input[type="text"] {
+    flex: 100%;
+    margin-right: 0;
+  }
+  .search-container input[type="date"] {
+    flex: 100%;
+    margin-right: 0;
+  }
+}
