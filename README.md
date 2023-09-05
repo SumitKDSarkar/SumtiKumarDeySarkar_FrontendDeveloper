@@ -13,7 +13,7 @@ Have a look ⬇️
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, React.JS, TailWind.css, Css
+**Client:** HTML, CSS, JavaScript, React.JS, TailWind.css, Node.Js, Express.Js, MongoDB, JWT Authentication
 
 **Deploying:** [Vercel](https://unstop-assessment-skumarcbr4-gmailcom.vercel.app/assessment)
 
