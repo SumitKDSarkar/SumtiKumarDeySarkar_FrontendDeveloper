@@ -11,3 +11,6 @@
 .Navbar span:hover{
   color: gray;
 }
+.Navbar ul{
+  background-color: black;
+}
