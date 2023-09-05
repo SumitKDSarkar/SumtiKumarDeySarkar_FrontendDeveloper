@@ -1,70 +1,56 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Brain Strom Force Assessment
 
-### `npm start`
+Hello Everyone, my name is Sumit and I would like to share my Experience in this assesment, this time a company called Brain Strom Force give me an oppotunity to build a SpaceX degin as a part of there interview process.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This was an individual executed within a days .
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+Have a look ⬇️
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Client:** HTML, CSS, JavaScript, React.JS, TailWind.css, Css
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Deploying:** [Vercel](https://unstop-assessment-skumarcbr4-gmailcom.vercel.app/assessment)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Screenshots
 
-## Learn More
+![Screenshot (232)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/9944c481-82b6-48a5-b8a1-55fd337d92d5)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot (233)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/42af8967-a579-433e-9682-4cc1b048587d)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Screenshot (234)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/e4c5c263-e561-4543-9ba3-297164a02c8d)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Screenshot (235)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/72cf5783-8278-458c-85b6-5ea99d865300)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Screenshot (236)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/a31a8196-9462-4c22-90d6-6f5eab1104f2)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Screenshot (237)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/677f1dcb-b98c-462e-b7f7-b5e675ef1ebc)
 
-### Deployment
+## Small Vedio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/67d238cd-7527-4a2b-8806-798274656eb1
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Contributors:
+## @Sumit
+
+
+
+<img  align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=0eff00&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Project!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 70%;">
