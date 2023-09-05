@@ -23,7 +23,7 @@ Have a look ⬇️
 
 ## Screenshots
 
-![Screenshot (232)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/9944c481-82b6-48a5-b8a1-55fd337d92d5)
+![Screenshot (232)](Screenshot (240).png
 
 
 ![Screenshot (233)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/42af8967-a579-433e-9682-4cc1b048587d)
