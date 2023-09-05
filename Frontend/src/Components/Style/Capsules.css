@@ -131,7 +131,7 @@
   }
 }
 
-/* Media query for even larger screens, large desktops */
+
 @media screen and (min-width: 1200px) {
   .card-container {
     grid-template-columns: repeat(3, 1fr);
@@ -140,11 +140,11 @@
 
 @media screen and (max-width: 767px) {
   .bannerTop {
-    flex-direction: column-reverse; /* Reverse the order for mobile screens */
+    flex-direction: column-reverse; 
   }
 }
 
-/* Media query for larger screens  screen width 768px and above */
+
 @media screen and (min-width: 768px) {
   .bannerTop {
     flex-direction: row;
