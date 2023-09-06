@@ -15,7 +15,7 @@ Have a look ⬇️
 
 **Client:** HTML, CSS, JavaScript, React.JS, TailWind.css, Node.Js, Express.Js, MongoDB, JWT Authentication
 
-**Deploying:** [Vercel](https://sumti-kumar-dey-sarkar-frontend-developer-skumarcbr4-gmailcom.vercel.app/)
+**Deploying:** [Vercel](https://sumti-kumar-dey-sarkar-frontend-developer-jqnu.vercel.app/)
 
 
 
